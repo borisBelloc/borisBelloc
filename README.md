@@ -54,6 +54,6 @@ Here are some ideas to get you started:
 
 <hr>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=borisBelloc&count_private=true&show_icons=true)](https://github.com/borisBelloc)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=borisBelloc&count_private=true&show_icons=true&theme=monokai)](https://github.com/borisBelloc)
 
 

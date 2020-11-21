@@ -16,17 +16,19 @@ Here are some ideas to get you started:
 -->
 
 <hr>
-
-#### :wave: <ins>Current stacks:</ins>
-
+<center>
+    
 <table>
     <thead>
         <tr>
-            <th colspan=3 >:heart:</th>
-            <th colspan=2 >:umbrella:</th>
+            <th colspan=5 >:wave: <ins>Current stacks:</ins></th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td colspan=3 align="center">:heart:</th>
+            <td colspan=2 align="center">:umbrella:</th>
+        </tr>
         <tr>
             <td><img height="30" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular"></td>
             <td><img height="23" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" alt="JavaScript"></td>
@@ -34,26 +36,21 @@ Here are some ideas to get you started:
             <td><img height="30" src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/322px-Java_Logo.svg.png" alt="Java"></td>
             <td><img height="20" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring"></td>
         </tr>
-    </tbody>
-</table>
-
-#### :umbrella: <ins>Old stacks (2018)</ins>:
-<table>
-    <thead>
         <tr>
-            <th colspan=3>:heart:</th>
+            <td colspan=5 align="center">:zzz: <ins>Old stacks (2018)</ins>:</th>
         </tr>
-    </thead>
-    <tbody>
         <tr>
-            <td><img height="30" src="https://www.python.org/static/community_logos/python-logo.png" alt="Python"></td>
-            <td><img height="20" src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="Django"></td>
+            <td colspan=3 align="center"><img height="30" src="https://www.python.org/static/community_logos/python-logo.png" alt="Python"></th>
+            <td colspan=2 align="center"><img height="20" src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="Django"></th>
         </tr>
     </tbody>
 </table>
 
 <hr>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=borisBelloc&count_private=true&show_icons=true&theme=monokai)](https://github.com/borisBelloc)
+| [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=borisBelloc&count_private=true&show_icons=true&theme=monokai)](https://github.com/borisBelloc) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borisBelloc&layout=compact&langs_count=8&theme=monokai)](https://github.com/borisBelloc)  |
+|----|----|
+
+</center>
 
 

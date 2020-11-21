@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br><br>
+<hr>
 
 #### :wave: <ins>Current stacks:</ins>
 
@@ -31,13 +31,11 @@ Here are some ideas to get you started:
             <td><img height="30" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular"></td>
             <td><img height="23" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" alt="JavaScript"></td>
             <td><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/524px-JQuery-Logo.svg.png" alt="jQuery"></td>
-            <td><img height="40" src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/322px-Java_Logo.svg.png" alt="Java"></td>
+            <td><img height="30" src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/322px-Java_Logo.svg.png" alt="Java"></td>
             <td><img height="20" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring"></td>
         </tr>
     </tbody>
 </table>
-
-<br>
 
 #### :umbrella: <ins>Old stacks (2018)</ins>:
 <table>
@@ -48,11 +46,14 @@ Here are some ideas to get you started:
     </thead>
     <tbody>
         <tr>
-            <td><img height="40" src="https://www.python.org/static/community_logos/python-logo.png" alt="Python"></td>
+            <td><img height="30" src="https://www.python.org/static/community_logos/python-logo.png" alt="Python"></td>
             <td><img height="20" src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="Django"></td>
         </tr>
     </tbody>
 </table>
 
+<hr>
 
-<br><br><br>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=borisBelloc&count_private=true&show_icons=true)](https://github.com/borisBelloc)
+
+

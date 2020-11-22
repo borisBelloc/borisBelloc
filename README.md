@@ -40,8 +40,8 @@ Here are some ideas to get you started:
                 <td colspan=5 align="center">:zzz: <ins>Old stacks (2018)</ins>:</th>
             </tr>
             <tr>
-                <td colspan=3 align="center"><img height="30" src="https://www.python.org/static/community_logos/python-logo.png" alt="Python"></th>
-                <td colspan=2 align="center"><img height="20" src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="Django"></th>
+                <td colspan=3 align="center"><img height="20" src="http://clipart-library.com/image_gallery2/Python-Logo-PNG.png" alt="Python"></th>
+                <td colspan=2 align="center"><img height="25" src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django"></th>
             </tr>
         </tbody>
     </table>

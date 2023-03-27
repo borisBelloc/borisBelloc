@@ -34,7 +34,7 @@ Here are some ideas to get you started:
                 <td><img height="23" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" alt="JavaScript"></td>
                 <td><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/524px-JQuery-Logo.svg.png" alt="jQuery"></td>
                 <td><img height="30" src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/322px-Java_Logo.svg.png" alt="Java"></td>
-                <td><img height="20" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring"></td>
+                <td><img height="20" src="https://spring.io/img/spring-2.svg" alt="Spring"></td>
             </tr>
             <tr>
                 <td colspan=5 align="center">:zzz: <ins>Old stacks (2018)</ins>:</th>

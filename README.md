@@ -30,7 +30,7 @@ Here are some ideas to get you started:
                 <td colspan=2 align="center">:umbrella:</th>
             </tr>
             <tr>
-                <td colspan=1 align="center"><img height="30" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular"></td>
+                <td colspan=1 align="center"><img height="30" src="https://brandlogos.net/wp-content/uploads/2025/04/angular_icon-logo_brandlogos.net_jn7wi.png" alt="Angular"></td>
                 <td colspan=1 align="center"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript"></td>
                 <td colspan=1 align="center"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" alt="Angular"></td>
                 <td><img height="30" src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/322px-Java_Logo.svg.png" alt="Java"></td>

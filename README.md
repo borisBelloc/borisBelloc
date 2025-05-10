@@ -1,5 +1,5 @@
-### Hi there 👋
-👯🌱🌱📫
+###  👋
+👯🌱📫
 <!--
 **borisBelloc/borisBelloc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,18 +30,20 @@ Here are some ideas to get you started:
                 <td colspan=2 align="center">:umbrella:</th>
             </tr>
             <tr>
-                <td><img height="30" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular"></td>
-                <td><img height="23" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" alt="JavaScript"></td>
-                <td><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/524px-JQuery-Logo.svg.png" alt="jQuery"></td>
+                <td colspan=1 align="center"><img height="30" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular"></td>
+                <td colspan=1 align="center"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript"></td>
+                <td colspan=1 align="center"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" alt="Angular"></td>
                 <td><img height="30" src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/322px-Java_Logo.svg.png" alt="Java"></td>
                 <td><img height="20" src="https://spring.io/img/spring-2.svg" alt="Spring"></td>
             </tr>
             <tr>
-                <td colspan=5 align="center">:zzz: <ins>Old stacks (2018)</ins>:</th>
+                <td colspan=5 align="center">:zzz: <ins>Old stacks</ins>:</th>
             </tr>
             <tr>
-                <td colspan=3 align="center"><img height="20" src="http://clipart-library.com/image_gallery2/Python-Logo-PNG.png" alt="Python"></th>
-                <td colspan=2 align="center"><img height="25" src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django"></th>
+                <td><img height="20" src="http://clipart-library.com/image_gallery2/Python-Logo-PNG.png" alt="Python"></td>
+                <td><img height="23" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" alt="JavaScript"></td>
+                <td><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/524px-JQuery-Logo.svg.png" alt="jQuery"></td>
+                <td colspan=2 align="center"><img height="25" src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django"></td>
             </tr>
         </tbody>
     </table>

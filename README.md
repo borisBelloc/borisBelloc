@@ -31,10 +31,10 @@ Here are some ideas to get you started:
             </tr>
             <tr>
                 <td colspan=1 align="center"><img height="30" src="https://brandlogos.net/wp-content/uploads/2025/04/angular_icon-logo_brandlogos.net_jn7wi.png" alt="Angular"></td>
-                <td colspan=1 align="center"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript"></td>
-                <td colspan=1 align="center"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" alt="Angular"></td>
-                <td><img height="30" src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/322px-Java_Logo.svg.png" alt="Java"></td>
-                <td><img height="20" src="https://spring.io/img/spring-2.svg" alt="Spring"></td>
+                <td colspan=1 align="center"><img height="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/3840px-Typescript_logo_2020.svg.png" alt="TypeScript"></td>
+                <td colspan=1 align="center"><img height="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png" alt="PostgreSQL"></td>
+                <td><img height="30" src="https://img.icons8.com/color/1200/java-coffee-cup-logo--v2.jpg" alt="Java"></td>
+                <td><img height="20" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/3840px-Spring_Framework_Logo_2018.svg.png" alt="Spring"></td>
             </tr>
             <tr>
                 <td colspan=5 align="center">:zzz: <ins>Old stacks</ins>:</th>

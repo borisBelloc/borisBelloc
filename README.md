@@ -41,8 +41,8 @@ Here are some ideas to get you started:
             </tr>
             <tr>
                 <td><img height="20" src="http://clipart-library.com/image_gallery2/Python-Logo-PNG.png" alt="Python"></td>
-                <td><img height="23" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" alt="JavaScript"></td>
-                <td><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/524px-JQuery-Logo.svg.png" alt="jQuery"></td>
+                <td><img height="23" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/3840px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript"></td>
+                <td><img height="20" src="https://images.icon-icons.com/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png" alt="jQuery"></td>
                 <td colspan=2 align="center"><img height="25" src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django"></td>
             </tr>
         </tbody>
